@@ -10,10 +10,10 @@ Boiler-plate code to start you Python Spark project
     - [Packaging pre-requisites](#Packaging-pre-requisites)
     - [Running the tests](#Running-the-tests)
 - [Running locally](#Running-locally)
-    - [Step 1) (Optional) Start the Docker containers](#Step-1)-(Optional)-Start-the-Docker-containers)
-    - [Step 2) (Optional) Download supporting jars](#Step-2)-(Optional)-Download-supporting-jars)
-    - [Step 3) (Optional) Setup local Environmental variables](#Step-3)-(Optional)-Setup-local-Environmental-variables)
-    - [Step 4) Run the Spark Application](#Step-4)-Run-the-Spark-Application)
+    - [Step 1) (Optional) Start the Docker containers](#Step-1-(Optional)-Start-the-Docker-containers)
+    - [Step 2) (Optional) Download supporting jars](#Step-2-(Optional)-Download-supporting-jars)
+    - [Step 3) (Optional) Setup local Environmental variables](#Step-3-(Optional)-Setup-local-Environmental-variables)
+    - [Step 4) Run the Spark Application](#Step-4-Run-the-Spark-Application)
 
 # Introduction
 
